@@ -1,4 +1,4 @@
-# Bibtex shorten DOI
+# BibTeX shorten DOI
 Convert the DOI fields of a BibTeX file to shortened DOI names (see http://shortdoi.org)
 This is helpful if you want to include DOI links using the Latex DOI package but wish to avoid having huge DOI names in your paper's references section.
 
